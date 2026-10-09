@@ -1,0 +1,37 @@
+{
+  "frames_processed": 240,
+  "fps": 29.18625678119349,
+  "tracked_box_observations": 1670,
+  "unique_track_ids": 59,
+  "line_crossings": {
+    "A": 3,
+    "B": 0
+  },
+  "crossing_events": 3,
+  "model": "yolov8n.pt",
+  "normalized_lines": {
+    "A": [
+      [
+        0.3,
+        0.8
+      ],
+      [
+        0.08,
+        0.62
+      ]
+    ],
+    "B": [
+      [
+        0.8,
+        0.8
+      ],
+      [
+        0.58,
+        0.62
+      ]
+    ]
+  },
+  "speed_enabled": false,
+  "speed_calibration_verified": false,
+  "evaluation": "Execution smoke test only; no ground-truth accuracy evaluation."
+}
