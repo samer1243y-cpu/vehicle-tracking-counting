@@ -1,6 +1,6 @@
 # Vehicle Tracking and Line Counting
 
-A local video-analysis prototype by **Samer Weryam**, an AI student at Taibah University. It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments.
+A local team video-analysis prototype presented in **Samer Weryam's** portfolio (AI student, Taibah University). It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments. Samer clarified that projects other than his Islamic assistant are team work. His specific contribution and the other contributors' preferred attribution have not yet been supplied.
 
 ## What works
 
@@ -51,3 +51,4 @@ See [validation](docs/VALIDATION.md) and [the actual execution summary](docs/smo
 Built on [Ultralytics](https://github.com/ultralytics/ultralytics), [OpenCV](https://opencv.org/), and [ByteTrack](https://github.com/ifzhang/ByteTrack). Review their upstream license terms before reuse or deployment. No project reuse license was selected during this portfolio review. This release does not grant rights to model weights or third-party footage.
 
 Recovered-source hashes and preparation changes are recorded in `docs/`. The originals were preserved and no earlier completion date is claimed.
+
