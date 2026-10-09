@@ -1,6 +1,6 @@
 # Vehicle Tracking and Line Counting
 
-A local video-analysis prototype by **Samer Weryam**, an AI student at Taibah University. It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments.
+A local team video-analysis prototype presented in **Samer Weryam's** portfolio (AI student, Taibah University). It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments. Samer clarified that projects other than his Islamic assistant are team work. His specific contribution and the other contributors' preferred attribution have not yet been supplied.
 
 ## What works
 
