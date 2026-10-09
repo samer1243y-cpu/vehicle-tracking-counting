@@ -2,6 +2,8 @@
 
 A local team video-analysis prototype presented in **Samer Weryam's** portfolio (AI student, Taibah University). It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments. Samer clarified that projects other than his Islamic assistant are team work. His specific contribution and the other contributors' preferred attribution have not yet been supplied.
 
+Samer confirmed team permission for public code release on 2026-10-09. This confirmation does not grant footage redistribution rights.
+
 ## What works
 
 - Vehicle classes: car, motorcycle, bus, and truck (COCO IDs 2, 3, 5, 7).
