@@ -2,6 +2,8 @@
 
 A local team video-analysis prototype presented in **Samer Weryam's** portfolio (AI student, Taibah University). It detects vehicles with YOLOv8, maintains track IDs with ByteTrack, and counts crossings of configurable line segments. Samer clarified that projects other than his Islamic assistant are team work. His specific contribution and the other contributors' preferred attribution have not yet been supplied.
 
+Samer confirmed team permission for public code release on 2026-10-09. This confirmation does not grant footage redistribution rights.
+
 ## What works
 
 - Vehicle classes: car, motorcycle, bus, and truck (COCO IDs 2, 3, 5, 7).
@@ -51,4 +53,3 @@ See [validation](docs/VALIDATION.md) and [the actual execution summary](docs/smo
 Built on [Ultralytics](https://github.com/ultralytics/ultralytics), [OpenCV](https://opencv.org/), and [ByteTrack](https://github.com/ifzhang/ByteTrack). Review their upstream license terms before reuse or deployment. No project reuse license was selected during this portfolio review. This release does not grant rights to model weights or third-party footage.
 
 Recovered-source hashes and preparation changes are recorded in `docs/`. The originals were preserved and no earlier completion date is claimed.
-
